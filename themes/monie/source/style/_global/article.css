@@ -340,6 +340,7 @@ ol.linenums {
   border-radius: 5px;
   clear: both;
   overflow: hidden;
+  display: none;
 }
 
 .article_tags {
