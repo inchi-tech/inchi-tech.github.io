@@ -10,6 +10,7 @@
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  display: none;
 }
 
 .home_bg:before {
@@ -110,7 +111,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #fff;
+  /* background-color: #fff; */
   z-index: 2;
 }
 

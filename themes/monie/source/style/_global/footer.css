@@ -16,3 +16,7 @@
 .footer a {color: #676b6f;}
 
 .footer a:hover {color: #fff;}
+
+.footer_box {
+  display: none;
+}

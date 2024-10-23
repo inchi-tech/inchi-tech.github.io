@@ -8,9 +8,9 @@ home_info:
   - info: 'Monie  正式完工了！！！'
   - info: '这是我的个人博客，致力于帮助你以最直观、最快速的方式学会前端开发，并希望我的个人经历对你有所启发。'
 # Home 首页标题
-blog_title: '最新文章 · 资源上新'
+blog_title: '英麒智能'
 # Home 首页Info
-blog_des: '授人以鱼，不如授人以渔。业精于勤，荒于嬉；行成于思，毁于随。'
+blog_des: '英特尔智能边缘计算研究院'
 # author avatar
 avatar: '/assets/imgs/avatar.jpg'
 # author home

@@ -68,7 +68,7 @@ a:hover {
   color: var(--hover_color);
 }
 
-body {
+/* body {
   cursor: url(http://wl.aidezy.com/MacOS.cur), auto;
 }
 
@@ -77,7 +77,7 @@ a:hover,
 a:link,
 a:visited {
   cursor: url(http://wl.aidezy.com/link.cur), pointer;
-}
+} */
 
 li {
   list-style: none;
