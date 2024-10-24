@@ -1,5 +1,5 @@
 # 网站标题
-title: Hexo主题-Quiet主题-Hexo扁平化主题安装
+title: Inchi's Blog
 # 网站标题后缀
 suffix: Quiet
 # 作者名称
@@ -30,14 +30,14 @@ menus:
   about: /about
   
 # logo
-logo: /image/logo.png
+logo: https://blog.taire.de/image/logo.png
 # 网页标签上那个小图标 一定要用本地存储
-icon: /image/favicon.ico
+icon: /image/logo.ico
 # 每个页面的展示的图标和一句话
 headers:
     home: {
-      message: "首页这里应该有一句话，你想想写点什么？",
-      icon: "/image/logo.png"
+      message: "Inchi's App Store",
+      icon: "https://blog.taire.de/image/logo.png"
     }
     archives: {
       # 这里会替换掉两个变量{ year 年，number 总数 } 当然也可以不写这两个变量
@@ -92,4 +92,4 @@ linksList:
 #默认的cover (默认缩略图) 在没有填写（这里可以替换（可以是api也可以是固定的图））
 # https://api.ixiaowai.cn/gqapi/gqapi.php
 # https://tuapi.eees.cc/api.php?type=302&category=fengjing
-default_cover: https://api.ixiaowai.cn/gqapi/gqapi.php
+default_cover: /image/inchi.png
